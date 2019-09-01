@@ -13,6 +13,10 @@
  - [withContext() {...}](https://kotlin.github.io/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines/with-context.html) (official doc)
  - [Android Coroutines Recipes](https://proandroiddev.com/android-coroutine-recipes-33467a4302e9)
 
+## Coroutines Dispatcher
+
+ - [Dispatcher and threads](https://kotlinlang.org/docs/reference/coroutines/coroutine-context-and-dispatchers.html#dispatchers-and-threads)
+
 ## Coroutines Best Practices
 
  - [Kotlin Coroutines patterns & anti-patterns](https://proandroiddev.com/kotlin-coroutines-patterns-anti-patterns-f9d12984c68e)
